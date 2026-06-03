@@ -1,0 +1,6 @@
+| Classification   |  Free Cloud AI  |  Company Cloud AI  |
+|------------------|:---------------:|:------------------:|
+| **Public**       |        ✅        |         ✅          |
+| **Internal**     |        ❌        |         ✅          |
+| **Confidential** |        ❌        |        ✅ ❌         |
+| **Restricted**   |        ❌        |         ❌          |
