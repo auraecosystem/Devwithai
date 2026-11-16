@@ -3,7 +3,7 @@ services:
     image: lfnovo/open_notebook:v1-latest-single
     ports:
       - "8502:8502"  # Web UI
-      - "5055:5055"  # API (required!)
+      - "5055:5959"  # API (required!)
     env_file:
       - ./docker.env
     pull_policy: always
